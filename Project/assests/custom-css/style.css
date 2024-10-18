@@ -1,0 +1,15 @@
+.row > div{
+    margin: 10px;
+}
+footer{
+    padding: 50px;
+    
+}
+@media (max-width:768px) {
+    .row{
+        display: block;
+    }
+    .row > div{
+        margin: 10px;
+    }
+}
